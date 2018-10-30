@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.classForm{
+  font-family: "Source Sans Pro";
+}
+
+.breakr {
+  
+}
+
+.myForm{
+  font-family: "Source Sans Pro";
+  font-size: 20px;
+  margin-left: 35px;
+}
+
+.WrapAll{
+  font-family: "Source Sans Pro";
+  background-color:#dddee1;
+  position:absolute;
+}
+
+.btnGenChart{
+  background-color:#017eff;
+  font-family: "Source Sans Pro";
+  color:white;
+  height:35px;
+}
+
+.btnSubmit{
+  background-color:#017eff;
+  font-family: "Source Sans Pro";
+  color:white;
+  height:35px;
+}
+
+.btnAddNew{
+  background-color:#017eff;
+  font-family: "Source Sans Pro";
+  color:white;
+  height:35px;
+}
+
+h2{
+  margin-top: 0px;
+  padding-top: 10px;
+  margin-left: 35px;
+}
+
+.body{
+  font-family: "Source Sans Pro";
+}
+
+.Datas{
+  background-color: #2e3440;
+  min-height: 35vh;
+  color: white;
+  width: 100%;
+  text-align:center;
+  background-origin: content-box;
+  display: inline-block;
+  font-family: "Source Sans Pro";
+  overflow-y: scroll;
+  resize: both;
+}
+
+.divChart {
+  background-color: white;
+  display: inline-block;
+  align-items: center;
+  min-height: 300px;
+  justify-content: center;
+  width: 100%;
+  color: white;
+  font-family: "Source Sans Pro";
+}
+
+.App-link {
+  color: #61dafb;
+}
